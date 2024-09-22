@@ -1,0 +1,14 @@
+#VSCode
+.vscode
+.settings
+
+#JetBrains
+.idea
+
+#git / other
+.DS_Store
+.git
+.lnk
+*.lock
+*.log
+*~
